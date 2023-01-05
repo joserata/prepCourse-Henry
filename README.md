@@ -1,1 +1,1 @@
-Este repositorio es un proyecto de como crear y clonar al nuestro sitio local o computadora, raton
+Este repositorio es un proyecto de como crear y clonar al nuestro sitio local o computadora, raton, me parece que es muy vacano y se debe tener en cuenta al momento de desarrollar.
